@@ -1,4 +1,5 @@
-![hw3](hw3.jpg)
+
+<img width="40%"  src="hw3.jpg">
 
 ```swift
 
